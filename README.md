@@ -1,4 +1,4 @@
-# What will you learn from this project?¶
+# What will you learn from this project?
 - Bivariate and multivariate data analysis
 - Correlation analysis
 - Preprocessing: missing value, train-test split and normalization
@@ -22,6 +22,11 @@ The water_potability.csv file contains water quality metrics for 3276 different 
 7. `Organic_carbon`: Total Organic Carbon (TOC) in source waters comes from decaying natural organic matter (NOM) as well as synthetic sources. TOC is a measure of the total amount of carbon in organic compounds in pure water. According to US EPA < 2 mg/L as TOC in treated / drinking water, and < 4 mg/Lit in source water which is use for treatment.
 8. `Trihalomethanes`: THMs are chemicals which may be found in water treated with chlorine. The concentration of THMs in drinking water varies according to the level of organic material in the water, the amount of chlorine required to treat the water, and the temperature of the water that is being treated. THM levels up to 80 ppm is considered safe in drinking water.
 9. `Turbidity`: The turbidity of water depends on the quantity of solid matter present in the suspended state. It is a measure of light emitting properties of water and the test is used to indicate the quality of waste discharge with respect to colloidal matter. The mean turbidity value obtained for Wondo Genet Campus (0.98 NTU) is lower than the WHO recommended value of 5.00 NTU.
-10. `Potability`: Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
+10. `Potability`: Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.  
 
+# Questions to be answered by regression analysis and forecasting have been possed:
+1. Analysis of data dependences, including EDA.
+2. Prediction of the target data (water quality in the target station) with the highest accuracy.
+3. Analysis of impact on the prediction accuracy of the first two stations (1-2) and the next five (3-7) stations separately.  
 
+Now, let's see what's in the notebook [notebook]
