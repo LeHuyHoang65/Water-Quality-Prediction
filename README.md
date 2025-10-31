@@ -1,5 +1,17 @@
+# What will you learn from this project?¶
+- Bivariate and multivariate data analysis
+- Correlation analysis
+- Preprocessing: missing value, train-test split and normalization
+- Modelling: Random Forest Classifiers
+- Random Forest Hyperparameter Tuning  
+
+# Introduction
+- Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
+- Drinking water and staying hydrated is associated with a reduced incidence of urinary tract infections (UTIs), lower blood pressure and heart disease. Therefore, drinking water is essential for good heart health.
+- Water is the most important nutrient for the body. It has many benefits for your health and helps to protect you from illness and disease. Water is also an essential part of a healthy lifestyle.
+
 # About dataset
-Content  
+Data content  
 The water_potability.csv file contains water quality metrics for 3276 different water bodies.  [Download](https://github.com/LeHuyHoang65/Water-Quality-Prediction/blob/main/water_potability.csv)
 1. `pH value`: PH is an important parameter in evaluating the acid–base balance of water. It is also the indicator of acidic or alkaline condition of water status. WHO has recommended maximum permissible limit of pH from 6.5 to 8.5. The current investigation ranges were 6.52–6.83 which are in the range of WHO standards.  
 2. `Hardness`: Hardness is mainly caused by calcium and magnesium salts. These salts are dissolved from geologic deposits through which water travels. The length of time water is in contact with hardness producing material helps determine how much hardness there is in raw water. Hardness was originally defined as the capacity of water to precipitate soap caused by Calcium and Magnesium.
@@ -11,3 +23,5 @@ The water_potability.csv file contains water quality metrics for 3276 different 
 8. `Trihalomethanes`: THMs are chemicals which may be found in water treated with chlorine. The concentration of THMs in drinking water varies according to the level of organic material in the water, the amount of chlorine required to treat the water, and the temperature of the water that is being treated. THM levels up to 80 ppm is considered safe in drinking water.
 9. `Turbidity`: The turbidity of water depends on the quantity of solid matter present in the suspended state. It is a measure of light emitting properties of water and the test is used to indicate the quality of waste discharge with respect to colloidal matter. The mean turbidity value obtained for Wondo Genet Campus (0.98 NTU) is lower than the WHO recommended value of 5.00 NTU.
 10. `Potability`: Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
+
+
