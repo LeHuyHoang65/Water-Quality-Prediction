@@ -29,5 +29,5 @@ The water_potability.csv file contains water quality metrics for 3276 different 
 2. Prediction of the target data (water quality in the target station) with the highest accuracy.
 3. Analysis of impact on the prediction accuracy of the first two stations (1-2) and the next five (3-7) stations separately.  
 
-Now, let's see what's in the notebook⬇  
-[notebook]
+## Now, let's see what's in the notebook⬇  
+[notebook](https://github.com/LeHuyHoang65/Water-Quality-Prediction/blob/main/water_quality_prediction.ipynb)
